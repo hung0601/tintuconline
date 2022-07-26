@@ -1,0 +1,84 @@
+.ndcontent h2{
+	font-family: Arial;
+	font-size: 16px;
+	margin-bottom: 0px;
+	
+}
+.ndcontent .banghi a{
+	text-decoration: none;
+	color: black;
+}
+.ndcontent .banghi a:hover{
+	color: #3366CC;
+	
+}
+.ndcontent p{
+	margin-top:0px;
+	font-size: 14px;
+	font-family: Arial;
+	width: 830px;
+}
+.ndcontent .banghi{
+	margin: 0px;
+	padding: 0px;
+}
+
+.ndcontent .banghi li{
+	list-style:none;
+	clear :left;
+	border-bottom: 2px solid #ccc;
+	float: left;
+	margin-bottom: 10px;
+	height:132px;
+}
+.ndcontent .banghi li img{
+	float: left;
+	margin-right:10px;
+	margin-bottom:10px;
+	
+}
+.ndcontent .phantrang{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.ndcontent .phantrang a{
+	text-decoration: none;
+	color: black;
+	/*background-color: white;*/
+	/*padding: 5px;*/
+	line-height:25px;
+
+	
+}
+.ndcontent .phantrang li{
+	list-style:none;
+	float: left;
+	margin: 0px 5px 10px 5px;
+	border-radius: 50%;
+	width: 25px;
+	height:25px;
+	border: 1px solid #999;
+	text-align:center;
+	
+}
+
+.ndcontent .phantrang li:hover{
+	background:#8bc34a;
+	
+}
+.ndcontent .phantrang a:hover{
+	color: white;
+	
+}
+.ndcontent .phantrang .dacbiet{
+	border:none;
+	width: auto;
+	height: auto;
+	
+}
+.hientai{
+	background:#8bc34a;
+	color: white;
+	line-height:25px;
+}
